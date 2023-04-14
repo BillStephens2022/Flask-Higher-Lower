@@ -2,7 +2,7 @@
 
   ## Description
 
-  Simple app where the user guesses a number between 0 and 9.
+  Simple web based app built with the Python Flask framework where the user guesses a number between 0 and 9.
 
   Screenshot of app:
   
